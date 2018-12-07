@@ -1,0 +1,2 @@
+//typedeféŒ¾
+#pragma once
